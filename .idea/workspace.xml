@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba1cfdc-828b-4085-9dc6-3c2274802462" name="Changes" comment="Create ArrayLists package">
+    <list default="true" id="1ba1cfdc-828b-4085-9dc6-3c2274802462" name="Changes" comment="Create an ArrayLists of GroceryItems">
+      <change afterPath="$PROJECT_DIR$/src/MoreLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +38,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.MoreLists.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -46,7 +47,7 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MoreLists">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ArrayLists" />
@@ -54,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MoreLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MoreLists" />
+      <module name="ArrayLists" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoreLists" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -77,12 +86,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722236070385</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create an ArrayLists of GroceryItems">
+      <option name="closed" value="true" />
+      <created>1722304616991</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722304616991</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create ArrayLists package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create ArrayLists package" />
+    <MESSAGE value="Create an ArrayLists of GroceryItems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create an ArrayLists of GroceryItems" />
   </component>
 </project>
