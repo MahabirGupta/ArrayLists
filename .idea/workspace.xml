@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ba1cfdc-828b-4085-9dc6-3c2274802462" name="Changes" comment="Create more ArrayLists of GroceryItems">
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndArrayLists/Main.java" afterDir="false" />
+    <list default="true" id="1ba1cfdc-828b-4085-9dc6-3c2274802462" name="Changes" comment="Create Lists of items">
+      <change afterPath="$PROJECT_DIR$/src/ArrayListChallenge/ArrayListChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayListChallenge/readMe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.ArrayListChallenge.executor": "Run",
     "Application.ArraysAndArrayLists.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MoreLists.executor": "Run",
@@ -48,7 +50,20 @@
     "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArraysAndArrayLists.Main">
+  <component name="RunManager" selected="Application.ArrayListChallenge">
+    <configuration name="ArrayListChallenge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListChallenge.ArrayListChallenge" />
+      <module name="ArrayLists" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArrayListChallenge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraysAndArrayLists.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysAndArrayLists.Main" />
       <module name="ArrayLists" />
@@ -78,6 +93,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListChallenge" />
         <item itemvalue="Application.ArraysAndArrayLists.Main" />
         <item itemvalue="Application.MoreLists" />
         <item itemvalue="Application.Main" />
@@ -117,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722324855606</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create Lists of items">
+      <option name="closed" value="true" />
+      <created>1722328920464</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722328920464</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -125,6 +149,7 @@
     <MESSAGE value="Create ArrayLists package" />
     <MESSAGE value="Create an ArrayLists of GroceryItems" />
     <MESSAGE value="Create more ArrayLists of GroceryItems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create more ArrayLists of GroceryItems" />
+    <MESSAGE value="Create Lists of items" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create Lists of items" />
   </component>
 </project>
